@@ -1,3 +1,6 @@
+# Used React library
+ - Villagers
+
 # i18n-React
 Internationalization file for React app in DodoSeki (Emiya)
  - Fork, Commit, Pull request
